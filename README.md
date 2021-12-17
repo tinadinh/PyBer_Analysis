@@ -1,5 +1,5 @@
 # PyBer_Analysis
-## Overview of the analysis: the purpose of the new analysis.
+## Overview of the analysis: the purpose of the analysis
 The purpose of this analysis is to analyze and create visualizations for all major data from January to early May of 2019 for PyBer, a ride-sharing company. It is to also create a summary DataFrame of the ride-sharing data by city type. Using the Pandas and Matplotlib libraries, this report will include multiple-line graphs of total weekly fares for each city type. The data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
 ## Resources:
