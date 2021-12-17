@@ -2,6 +2,17 @@
 ## Overview of the analysis: Explain the purpose of the new analysis.
 The purpose of this analysis is to analyze and create visualizations for all major data from January to early May of 2019 for PyBer, a ride-sharing company. It is to also create a summary DataFrame of the ride-sharing data by city type. Using the Pandas and Matplotlib libraries, this report will include multiple-line graphs of total weekly fares for each city type. The data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
+## Resources:
+### Data Source:
+- city_data.csv
+- ride_data.csv
+
+### Software:
+- Python 3.10
+- Jupyter Notebook 6.4.5
+- Matplotlib 3.4.3
+- Pandas 1.3.4
+
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 Based on city type, the data showed an overall direct relationship between total rides, total drivers, and total fares, and showed an inverse relationship for average fare per ride and average fare per driver.
 ![1](https://user-images.githubusercontent.com/33900637/146473771-45483611-61a3-4124-b589-f6eb3fa65a78.png)
