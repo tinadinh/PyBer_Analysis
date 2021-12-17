@@ -24,7 +24,7 @@ Based on the Pyber summary DataFrame, there are significant differences in ride 
 
 This leads us to expect an increase in price based on decreased demand, increased distance, and driver availability. In urban areas, the number of drivers is greater than in rural areas, which results to an increased relative demand. Since, as shown in the Pyber summary DataFrame, there are so many drivers in the urban area by the contrast between the total number of rides and the total number of drivers. Prices are likely also increased in rural areas based on the distance between destinations. The line chart shows an overall higher volume in total fares for urban areas, lowest volume for rural areas, with suburban falling in between.
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary: Based on the results, address any disparities among the city types
 Based on the above results, the following three business recommendations:
 1. Focus recruitment resources in rural and suburban areas to to increase the number of available drivers at a given time and to accommodate this increased demand. while decreasing recruitment in urban areas. 
 2. Place a cap on fare to keep the service affordable in rural areas. This would make it more accessible while still allowing for profit.
